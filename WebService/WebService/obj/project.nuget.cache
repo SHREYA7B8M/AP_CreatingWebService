@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXhzQfMTW8Dd+OE+NAudSDlv9peqcVVTxGhd6yMFTEQ4X7QBnC4oN5sLR+8z0n790FghZRovpvgTeB8zuEEa4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\MySQL Exercise\\Assisted_Projects\\CreatingWebService\\WebService\\WebService\\WebService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
